@@ -1,5 +1,8 @@
 venv/
 .idea/
+media/
 
 **/__pycache--/
 *.pyc
+
+db.sqlite3
